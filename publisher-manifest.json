@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "fbf0b9208ff23a574688ea55",
+  "owner": "uuasxs",
+  "repo": "page-99ba3ae3bb04116a1e20ab6a",
+  "title": "RadioVPN",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "99ba3ae3bb04116a1e20ab6a",
+      "a": "RadioVPN",
+      "b": "",
+      "entity": "RadioVPN",
+      "brand": "RadioVPN",
+      "separator": "",
+      "path": "index.html",
+      "hash": "218d885727c717056520b744d7e47af94bd61bd495b4e4ad08ca0926e436444f",
+      "content": {
+        "keyword1": "RadioVPN",
+        "keyword2": "",
+        "primary_entity": "RadioVPN",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "RadioVPN 是面向个人与团队的网络加速服务官网，提供多端客户端下载、机场订阅与稳定梯子加速，覆盖流媒体、办公与游戏场景。",
+          "AI_DESCRIPTION": "RadioVPN 是面向个人与团队的网络加速服务官网，提供多端客户端下载、机场订阅与稳定梯子加速，覆盖流媒体、办公与游戏场景。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>html,body{margin:0;padding:0;max-width:100%;overflow-x:hidden;background:#FFF8F3;color:#241C18;font-size:17px;line-height:1.75;font-family:PingFang SC,Hiragino Sans GB,Microsoft YaHei,sans-serif}*{box-sizing:border-box}a{color:#C44B3A;text-decoration:none}a:hover{text-decoration:underline}header,footer,.band{background:#FFF1EA;border-bottom:1px solid #F0D4C8}footer{border-bottom:0;border-top:1px solid #F0D4C8}header .inner,footer .inner,main{max-width:920px;margin:0 auto;padding:16px}nav{display:flex;flex-wrap:wrap;gap:10px 16px;align-items:center}nav .brand{font-weight:700;color:#C44B3A;font-size:1.15rem}h1{font-size:1.85rem;line-height:1.3;margin:12px 0 14px;color:#1B1411}h2{font-size:1.4rem;margin:28px 0 12px;color:#1B1411;border-left:6px solid #E07A5F;padding-left:10px}h3{font-size:1.12rem;margin:18px 0 8px;color:#3A2A24}.lead{font-size:1.02rem;color:#3F322C}.grid{display:flex;flex-wrap:wrap;gap:12px}.card,.plan,.step,.client{background:#FFFFFF;border:1px solid #EED3C7;border-radius:12px;padding:14px 16px;width:100%}.plan{flex:1 1 260px}.plan.featured{border:2px solid #E07A5F;background:#FFF6F1;box-shadow:0 0 0 3px #F8D9D0}.tag{display:inline-block;background:#E07A5F;color:#FFFFFF;border-radius:999px;padding:2px 10px;font-size:0.82rem;margin-left:6px}.price{font-size:1.35rem;color:#C44B3A;font-weight:700}.muted{color:#6A564C;font-size:0.95rem}ul{margin:8px 0 0;padding-left:1.15em}.cta{display:inline-block;margin-top:10px;background:#D4564A;color:#FFFFFF;padding:10px 16px;border-radius:10px;font-weight:600}.cta:hover{text-decoration:none;background:#C04438}.step{position:relative;padding-left:52px}.num{position:absolute;left:14px;top:14px;width:28px;height:28px;border-radius:50%;background:#E07A5F;color:#FFFFFF;text-align:center;line-height:28px;font-weight:700}.client{flex:1 1 200px}.faq details{background:#FFFFFF;border:1px solid #EED3C7;border-radius:10px;padding:10px 14px;margin:0 0 10px}summary{cursor:pointer;font-weight:600;color:#2B201C}summary+*{margin:8px 0 4px}.list a{display:inline-block;margin:0 12px 8px 0}.note{background:#FFF1EA;border-radius:10px;padding:12px 14px;margin:12px 0}@media (max-width:640px){h1{font-size:1.55rem}main,header .inner,footer .inner{padding:14px}.plan,.client{flex-basis:100%}}</style><header><div class=\"inner\"><nav><a class=\"brand\" href=\"#top\">RadioVPN</a><a href=\"#intro\">简介</a><a href=\"#plans\">套餐</a><a href=\"#scenes\">场景</a><a href=\"#clients\">客户端</a><a href=\"#guide\">操作说明</a><a href=\"#faq\">常见问题</a><a href=\"#sitemap\">网站地图</a></nav></div></header><main id=\"top\"><h1>RadioVPN 官方网络加速与客户端下载</h1><p class=\"lead\">RadioVPN 官方网站面向需要稳定出网、流媒体播放与跨境协作的用户，提供机场订阅、多端加速器客户端下载以及可按月或按年使用的网络加速服务。本页说明品牌定位、套餐差异、客户端选择与接入步骤，便于你在官网完成下载与配置。</p><section id=\"intro\"><h2>品牌简介</h2><p>RadioVPN 把订阅下发、节点调度和客户端适配放在同一套流程里。个人用户可以按流量与设备数选择基础版或旗舰版；小团队可以把账号集中在团队版，由客户经理协助划分路由。服务侧重点是可预期的线路质量，而不是堆砌无法核对的宣传数字。</p><p>订阅用于在官方支持的客户端中导入节点。导入后即可按地区、用途切换线路：日常网页与办公走通用节点，流媒体走原生解锁节点，对延迟敏感的游戏可改用 IPLC 专线。RadioVPN 不绑定单一系统，Windows、macOS、Android、iOS、Linux 与常见路由器均可接入。</p><div class=\"note\">官方下载入口集中在本页「选择客户端」一节。请只从 RadioVPN 官网获取安装包与订阅格式说明，避免来路不明的二次分发。</div></section><section id=\"plans\"><h2>套餐方案</h2><p>价格按自然月计费，年付可锁定全年额度。流量为当月极速流量，到期未用完不累计到次月。设备数指同时在线的终端，更换设备无需重新购买，只需在客户端中重新登录或更新订阅。</p><div class=\"grid\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"muted\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul><a class=\"cta\" href=\"#guide\">按基础版开始</a></article><article class=\"plan featured\"><h3>旗舰版<span class=\"tag\">推荐</span></h3><p class=\"price\">¥35/月</p><p class=\"muted\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><a class=\"cta\" href=\"#clients\">下载旗舰版常用客户端</a></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"muted\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul><a class=\"cta\" href=\"#guide\">查看团队接入步骤</a></article></div></section><section id=\"scenes\"><h2>使用场景</h2><h3>跨境办公与资料协作</h3><p>邮件、文档和会议软件对连接稳定性要求高于峰值带宽。RadioVPN 普通线路适合网页与云盘同步；若会议室出现明显卡顿，可在客户端中改选延迟更低的专线节点，并保持同一账号不超过套餐设备上限。</p><h3>流媒体与内容回看</h3><p>基础版覆盖常见平台的基础解锁；旗舰版与团队版在全节点启用原生流媒体策略，减少因出口 IP 被识别而导致的清晰度下降。播放前建议先完成订阅更新，再选择标注媒体用途的节点。</p><h3>游戏与实时对战</h3><p>旗舰版提供 IPLC 专线游戏加速优化，适合对往返时延敏感的对战与匹配。团队版可把游戏流量单独指向 VIP 高带宽节点，避免与大文件下载抢占同一条出口。</p></section><section id=\"clients\"><h2>选择客户端</h2><p>RadioVPN 强调先选客户端、再导入订阅。不同系统对应的配置文件格式不同，选错客户端会导致无法解析机场订阅。下列入口均为官网下载说明，安装完成后回到本页继续操作步骤。</p><div class=\"grid\"><article class=\"client\" id=\"download\"><h3>Windows 桌面端</h3><p>适合长期在线的办公电脑。安装后选择订阅导入，系统代理可按浏览器或全局模式切换。若仅浏览网页，优先系统代理，减少对本地其他软件的影响。</p><a class=\"cta\" href=\"#guide\">Windows 官方下载说明</a></article><article class=\"client\"><h3>macOS 桌面端</h3><p>支持菜单栏快速切换节点。首次打开需在系统设置中允许网络扩展。建议把自动更新打开，以便同步 RadioVPN 的订阅字段变更。</p><a class=\"cta\" href=\"#guide\">macOS 官方下载说明</a></article><article class=\"client\"><h3>Android 移动端</h3><p>以通知栏磁贴控制连接。移动网络与 Wi-Fi 可分别记住节点。流量统计在客户端内展示，便于对照套餐额度。</p><a class=\"cta\" href=\"#guide\">Android 官方下载说明</a></article><article class=\"client\"><h3>iOS 移动端</h3><p>通过配置描述或兼容客户端导入订阅。连接后可在快捷指令中固定常用节点。建议在无线局域网环境下完成首次导入。</p><a class=\"cta\" href=\"#guide\">iOS 官方下载说明</a></article><article class=\"client\"><h3>Linux 与终端环境</h3><p>提供命令行与图形两种接入方式，适合开发机与无桌面服务器。导入后可用策略规则把软件源、容器拉取与普通网页分开。</p><a class=\"cta\" href=\"#guide\">Linux 官方下载说明</a></article><article class=\"client\"><h3>路由器与中继</h3><p>团队版可将订阅下发到支持自定义路由的网关，让家庭或工作室设备共享同一出口。请为网关单独占用一个在线名额。</p><a class=\"cta\" href=\"#guide\">路由接入说明</a></article></div></section><section id=\"guide\"><h2>操作说明</h2><p>整站按纵向步骤组织：确认需求、选定套餐、下载客户端、导入订阅、验证线路。每一步都可单独重复，不必卸载重装。</p><article class=\"step\"><div class=\"num\">1</div><h3>确认设备与流量</h3><p>统计需要同时在线的手机、电脑和网关数量，并估算流媒体与下载占用。3 台以内且流量温和选基础版；需要原生媒体与游戏专线选旗舰版；超过 5 台或需要定制路由选团队版。</p></article><article class=\"step\"><div class=\"num\">2</div><h3>在官网完成订阅</h3><p>于套餐卡片进入对应说明并完成开通。开通后账户中心会给出订阅链接或二维码。请妥善保存，不要把链接发到公开群组。年付用户可在同一页面查看生效周期。</p></article><article class=\"step\"><div class=\"num\">3</div><h3>下载并安装客户端</h3><p>回到「选择客户端」，按操作系统获取 RadioVPN 官方安装包或配置指南。安装时关闭来路不明的加速器，避免系统代理被抢占。安装结束不要急于连接，先进入导入界面。</p></article><article class=\"step\"><div class=\"num\">4</div><h3>导入机场订阅</h3><p>在客户端选择「从 URL 更新」或「扫描订阅」。成功后节点列表应出现按地区与用途分组的条目。若列表为空，检查链接完整性，或在账户中心重新复制。团队版可由管理员统一下发。</p></article><article class=\"step\"><div class=\"num\">5</div><h3>连接节点并自检</h3><p>先选普通线路打开网页，确认出口可用；再按场景切换流媒体或 IPLC 游戏节点。自检只需完成一次常用网站访问与一分钟视频播放。之后在客户端开启开机自启或按需连接即可。</p></article><h3>节点与线路说明</h3><p>普通线路节点池覆盖日常访问，强调可用端口与较宽的接入范围。旗舰版与团队版增加原生媒体出口和 IPLC 专线，用于降低游戏抖动。VIP 高带宽节点只在团队版出现，适合短时集中传输。RadioVPN 会不定期调整入口，客户端保持订阅自动更新即可同步，无需反复手动填写服务器地址。</p></section><section id=\"faq\"><h2>常见问题</h2><div class=\"faq\"><details><summary>RadioVPN 官网下载的客户端和第三方修改版有何不同？</summary><p>官网客户端按当前订阅字段编译，能正确识别流量统计、设备上限和媒体节点标签。第三方修改版可能丢失自动更新，或把系统代理指向未知地址。若你无法确认安装包来源，应卸载后从本页客户端一节重新获取。</p></details><details><summary>机场订阅导入失败通常是什么原因？</summary><p>最常见是链接被截断、客户端类型不匹配，或本地时间误差过大导致校验失败。请重新复制完整订阅、确认系统日期，并改用与设备对应的官方客户端。团队成员应使用管理员下发的专属链接，不要共用个人订阅。</p></details><details><summary>基础版、旗舰版和团队版可以中途更换吗？</summary><p>可以。升级立即按新套餐放开流量、设备数与节点类型；降级在当前账期结束后生效，以免正在进行的下载或会议被中断。年付用户办理变更时，剩余时长会按规则折算，具体以账户中心展示为准。</p></details><details><summary>多台设备同时在线超出套餐会怎样？</summary><p>超出同时在线上限后，新接入的设备会无法建立隧道，已在线设备不受影响。你可在客户端退出空闲终端，或升级到设备数更高的套餐。路由器占用独立名额，计算设备数时请把它算进去。</p></details><details><summary>流媒体能播放但清晰度上不去，需要换套餐吗？</summary><p>不一定。先更新订阅并切换到标注原生媒体的节点，避免停留在普通线路。基础版只承诺基础解锁，若平台持续限制出口，再考虑旗舰版的全节点原生策略。播放缓存与设备本身的网络条件也会影响观感，需要分开排查。</p></details><details><summary>游戏加速是否必须使用 IPLC 专线？</summary><p>不是所有游戏都需要专线。匹配和大厅对延迟不敏感时，普通线路即可。只有对局中出现持续抖动，才建议在旗舰版中改选 IPLC 节点。团队版可以把游戏进程单独走 VIP 高带宽，避免和更新包抢流量。</p></details></div></section><section id=\"ads\"><h2>公告与合作展示</h2><p>RadioVPN 官方合作栏仅放置与客户端、云服务和内容平台相关的文字信息，不插入外部脚本或跳转跟踪。当前公告：桌面端已支持按应用分流；移动端可在通知栏一键切换媒体节点。如需品牌合作，请通过页脚联系通道提交名称与合作说明。</p><p>展示位 A：办公套件网络优化说明（文字合作）。展示位 B：云存储跨境同步实践（文字合作）。以上展示不含评分墙，也不收集本页评论。</p></section><section id=\"links\"><h2>友情链接</h2><p class=\"list\"><a href=\"#intro\">品牌介绍</a><a href=\"#plans\">套餐一览</a><a href=\"#clients\">客户端下载</a><a href=\"#guide\">接入步骤</a><a href=\"#faq\">问题解答</a><a href=\"#sitemap\">站点地图</a></p></section><section id=\"sitemap\"><h2>网站地图</h2><p>本页为 RadioVPN 官网单页结构，便于检索与离线阅读。主要节点如下：</p><ul><li><a href=\"#top\">首页标题与导读</a></li><li><a href=\"#intro\">品牌简介</a></li><li><a href=\"#plans\">套餐方案</a></li><li><a href=\"#scenes\">使用场景</a></li><li><a href=\"#clients\">选择客户端与官网下载</a></li><li><a href=\"#guide\">五步操作说明与线路说明</a></li><li><a href=\"#faq\">常见问题</a></li><li><a href=\"#ads\">公告与合作展示</a></li><li><a href=\"#links\">友情链接</a></li></ul></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"inner\"><p>RadioVPN 官方网站 · 加速器客户端下载与机场订阅说明</p><p class=\"muted\">联系与备案信息公布于账户中心。本页仅提供官方身份说明、套餐与操作指引，不含评论评分。</p><p><a href=\"#top\">返回顶部</a> · <a href=\"#sitemap\">网站地图</a></p></div></footer>",
+          "hash": "6deea7597c168291cdc7331a931cffd5e8062941b69e7b9bff6097075858ef07",
+          "seo": {
+            "title": "RadioVPN 官方网站：加速器客户端下载与网络加速服务",
+            "keywords": "RadioVPN,RadioVPN官网,RadioVPN下载,VPN加速器,梯子网络加速,机场订阅,客户端下载,IPLC加速",
+            "description": "RadioVPN 是面向个人与团队的网络加速服务官网，提供多端客户端下载、机场订阅与稳定梯子加速，覆盖流媒体、办公与游戏场景。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "3b7r7.cn",
+    "host": "p-3a9405ba5e.3b7r7.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "elongwin.cn",
+      "url": "https://elongwin.cn/",
+      "label": "RadioVPN",
+      "apex": "elongwin.cn",
+      "kind": null,
+      "identity": "udpnwkmrjse/page-eb2ed26d082c9b3bf3ff3db4"
+    },
+    {
+      "host": "fzvbvmd.cn",
+      "url": "https://fzvbvmd.cn/",
+      "label": "RadioVPN",
+      "apex": "fzvbvmd.cn",
+      "kind": null,
+      "identity": "fmkpps/page-e8984e5ff535aed2d7ce6c16"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "a2440b8426c7760b73a4d1cc7793d6a157e7dce06d9ee22298750ed9f8f99d23",
+    "sitemap.xml": "9883ae48955faf2f59342c5e50743298c8f6fbb2a10d3c829d8f94899cc44096",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "bc06eca5374e6cd80d50af97567b00cdd145a53d6db2f61335a3191f3a18ced8",
+    "robots.txt": "8e9a30207ebd60e499c897a34f847418abc98a7dd3ad07d80cae4a6ee42f900f",
+    "e34492f8970487d37e69943960291915.txt": "738429d3b3b56df39da5054f5cbcf33c22284b38333c5bb4f4a5c2298ff89288"
+  },
+  "revision": "bf4e782deaab3b5aa113ab62aad773a8f977069270a874abab9191b8591490bf"
+}
